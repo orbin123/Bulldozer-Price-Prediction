@@ -1,6 +1,6 @@
 #Bulldozer Sale Price Prediction
 
-This project aims to predict the future sale price of bulldozers using historical sales data. It is a time-series regression problem solved with a RandomForestRegressor.
+This project aims to predict the future sale price of bulldozers using historical sales data. It is a time-series regression problem solved with RandomForestRegressor.
 
 Key Highlights
 
